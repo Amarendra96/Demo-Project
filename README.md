@@ -1,7 +1,7 @@
 # Demo-Project
 This is my first Git Repository.
 <br>
-Author - Amarendra Sahoo
+Author - Mr. Amarendra Sahoo
 <br>
 Dept- Software Developer
 <br>
